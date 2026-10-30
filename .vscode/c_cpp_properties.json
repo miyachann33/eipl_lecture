@@ -1,0 +1,31 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/d-airec/catkin_ws/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/d-airec/catkin_ws/src/Communicator/include/**",
+        "/home/d-airec/catkin_ws/src/DPL_care/include/**",
+        "/home/d-airec/catkin_ws/src/TouchCare/include/**",
+        "/home/d-airec/catkin_ws/src/ShareSet/airec_joy_controller/include/**",
+        "/home/d-airec/catkin_ws/src/apriltag_ros/apriltag_ros/include/**",
+        "/home/d-airec/catkin_ws/src/posture_change/include/**",
+        "/home/d-airec/catkin_ws/src/april_tag_repo/realsense-ros/realsense2_camera/include/**",
+        "/home/d-airec/catkin_ws/src/torobo_ros/utilities/torobo_collision_detector/include/**",
+        "/home/d-airec/catkin_ws/src/wiping_matsumura/include/**",
+        "/home/d-airec/catkin_ws/src/zed-ros-interfaces/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
